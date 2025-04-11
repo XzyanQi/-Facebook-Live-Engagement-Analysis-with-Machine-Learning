@@ -1,4 +1,5 @@
 📊 Analisis Engagement Postingan Facebook Live
+
 📌 Latar Belakang
 Dalam era digital saat ini, Facebook Live telah menjadi salah satu platform favorit bagi para penjual online untuk terhubung secara langsung dengan pelanggan. Melalui interaksi real-time, penjual dapat mempromosikan produk, menjawab pertanyaan, hingga membangun kedekatan dengan audiens.
 
